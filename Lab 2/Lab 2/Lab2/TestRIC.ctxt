@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TestRIC
+comment0.text=\r\n\ The\ test\ class\ TestRIC.\r\nIdentify\ the\ valid\ "normal"\ case\ and\ test\ at\ least\ two\ combinations.\r\n\u25CF\ Identify\ the\ valid\ boundary\ conditions\ and\ test\ each\ of\ them.\r\n\u25CF\ Identify\ the\ invalid\ boundary\ conditions\ and\ test\ each\ of\ the\ ones\ that\ are\r\nhandled\ by\ the\ method,\ either\ through\ an\ exception\ or\ the\ return\ of\ a\ flag\ or\r\nan\ error\ code.\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TestRIC()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ TestRIC\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testAddToFrontNC()
+comment4.params=
+comment4.target=void\ testAddSortedNC()
+comment5.params=
+comment5.target=void\ testBubbleSortNC()
+comment6.params=
+comment6.target=void\ testBubbleSortUniqueNC()
+numComments=7

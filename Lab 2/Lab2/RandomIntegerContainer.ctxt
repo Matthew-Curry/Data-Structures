@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RandomIntegerContainer
+comment1.params=
+comment1.target=RandomIntegerContainer()
+comment2.params=x
+comment2.target=void\ addToFront(java.lang.Integer)
+comment3.params=X
+comment3.target=void\ addSorted(java.lang.Integer)
+comment4.params=
+comment4.target=void\ bubbleSort()
+comment5.params=
+comment5.target=void\ bubbleSortUnique()
+comment6.params=i\ p
+comment6.target=void\ swap(int,\ int)
+comment7.params=
+comment7.target=java.lang.Integer[]\ returnArray()
+numComments=8

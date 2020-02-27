@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BinarySearchTree
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BinarySearchTree\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=node
+comment1.target=BinarySearchTree(BinaryNode)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BinarySearchTree\r\n
+comment2.params=
+comment2.target=java.lang.Comparable\ findMax()
+comment2.text=\r\n\ Finds\ and\ returns\ the\ largest\ item\ in\ the\ tree\r\n
+comment3.params=node
+comment3.target=void\ helperFindMax(BinaryNode)
+comment4.params=
+comment4.target=java.lang.Comparable\ findMin()
+comment4.text=\r\n\ Finds\ and\ returns\ the\ smallest\ item\ in\ the\ tree\r\n
+comment5.params=node
+comment5.target=void\ helperFindMin(BinaryNode)
+comment6.params=e
+comment6.target=boolean\ insert(java.lang.Comparable)
+comment6.text=\r\n\ A\ method\ that\ returns\ true\ if\ insertion\ was\ successful,\ false\ otherwise.\r\n
+comment7.params=node\ e
+comment7.target=void\ helperInsert(BinaryNode,\ java.lang.Comparable)
+comment8.params=e
+comment8.target=boolean\ contains(java.lang.Comparable)
+comment8.text=\r\n\ A\ method\ that\ returns\ true\ if\ tree\ contains\ specified\ key,\ false\ otherwise.\r\n
+comment9.params=node\ e
+comment9.target=void\ helperContains(BinaryNode,\ java.lang.Comparable)
+numComments=10
